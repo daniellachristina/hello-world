@@ -4061,13 +4061,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #e5e5e5;
 }
 .nav > li > a > img {
-  max-width: none;
-}
-.nav-tabs {
-  border-bottom: 1px solid #ddd;
-}
-.nav-tabs > li {
-  float: left;
+  max-width: non
   margin-bottom: -1px;
 }
 .nav-tabs > li > a {
@@ -6798,3 +6792,10 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+e;
+}
+.nav-tabs {
+  border-bottom: 1px solid #ddd;
+}
+.nav-tabs > li {
+  float: left;

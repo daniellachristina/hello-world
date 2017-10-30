@@ -11,6 +11,8 @@
       <h1 class="page-title">TUNDRA GALLERY</h1>
       <p class="page-description">The Tundra Gallery is a collection of photographs from three distinct areas: arctic tundra, alpine tundra, and antarctic tundra. In tundra, the vegetation is composed of dwarf shrubs, sedges and grasses, mosses, and lichens, making for diverse ecology and stunning photos. </p>
     </header>
+    
+    
 
     <div class="gallery">
       <figure class="gallery-item">
